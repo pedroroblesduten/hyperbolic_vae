@@ -1,0 +1,6 @@
+# Ignore __pycache__ in all directories
+**/__pycache__/
+
+# Ignore the data and artifacts folders completely
+data/
+artifacts/
